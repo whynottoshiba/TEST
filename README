@@ -6,4 +6,8 @@ Linia dodana podczac inicjujacego (pierwszego) commitu na branch MASTER na lokal
 
 4 linijka na NOWA
 
+<<<<<<< HEAD
 5 linijka na MASTER
+=======
+5 linijka na NOWA
+>>>>>>> Nowa
