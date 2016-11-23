@@ -1,1 +1,1 @@
-Linia dodana podczac inicjujacego (pierwszego) commitu na branch MASTER na lokalnym GIT
+Linia dodana podczac inicjujacego (pierwszego) commitu na branch MASTER na lokalnym GIT. Ten tekst dodalem do README na remote GIT zeby sprawdzic jak zachowa sie FETCH i czy trzeba bedzie robic MERGE zeby zoabczyc zmiany na lokalnym GIT
